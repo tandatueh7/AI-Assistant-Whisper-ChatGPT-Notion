@@ -7,5 +7,3 @@ requests==2.31.0
 tiktoken==0.6.0
 pyannote.audio==3.1.1
 pydantic-settings==2.2.1
-torch==2.1.0
-torchaudio==2.1.0
